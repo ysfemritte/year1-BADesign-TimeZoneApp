@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\bin\Debug\TimeZone.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\bin\Debug\TimeZone.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\bin\Debug\TimeZone.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 4\TimeZone\obj\Debug\TimeZone.pdb
